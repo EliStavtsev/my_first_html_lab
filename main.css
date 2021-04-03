@@ -1,0 +1,10 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEB1wJ-HUKcp2t-NpfFnteq4TMuZZMCPFAAEdl6v_qk5Zzrki7F06TxayxOXNt8CmV0v4&usqp=CAU);
+    background-size:cover;
+}
+
+<link rel="stylesheet">
+.main-header-class{
+    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+
+    
